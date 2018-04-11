@@ -1,0 +1,62 @@
+Bài 4:
+1/
+pwd: xuất đường dẫn thư mục làm việc
+pwd -p: 
+4/
+ls: liệt kê nội dung thư mục
+ls -i: Hiển thị index number của mỗi tập tin thư
+mục
+ls -a: Hiển thị các file ẩn
+ls -l: Hiển thị kiểu danh sách
+ls -ila: Hiển thị chi tiết các thông tin của các tập tin.
+Bài 5:
+2/ touch thegioimang.txt
+ vi thegioimang.txt
+chào mừng....
+esc 
+:x
+3/ mkdir Desktop/athena
+   mkdir Desktop/athena/class1
+   mkdir Desktop/athena/class2
+   mkdir Desktop/athena/class2/basic_network
+   mkdir Desktop/athena/class3
+   mkdir Desktop/athena/class3/linux
+   mkdir Desktop/athena/class4
+   mkdir Desktop/athena/class4/ccna
+   mkdir Desktop/athena/class5
+   mkdir Desktop/athena/class5/ccnp
+   mkdir Desktop/athena/class6
+   mkdir Desktop/athena/class6/mcsa Desktop/athena/class6/ceh
+4/ cp thegioimang.txt Desktop/ahtena/class1
+   cp thegioimang.txt Desktop/athena/class2
+   cp thegioimang.txt Desktop/athena/class3
+   cp thegioimang.txt Desktop/athena/class4
+touch t1
+touch t2
+mv t1 Desktop/athena/class5
+mv t2 Desktop/athena/class6
+pwd
+5/
+rm Desktop/athena/class1/thegioimang.txt
+rm Desktop/athena/class3/thegioimang.txt
+6/
+mv Desktop/athena/class4/ccna Desktop/athena/class5/ccnp
+7/
+cp Desktop/athena/class6/ceh Desktop/athena/class5/ccnp
+8/
+ln -s thegioimang.txt Desktop/athena/class1
+ln    thegioimang.txt Desktop/athena/class1
+9/
+rm thegioimang.txt Desktop/athena/class1/thegioimang.txt
+Bài 6:
+1/ cd
+2/ cd /etc
+3/ cd ..
+   cd /usr/lib
+4/ ls
+5/ ls -ila
+6/ alias ll
+7/ 
+
+
+
